@@ -1,0 +1,37 @@
+*{
+    color:black
+}
+
+div{
+    height: 50px;
+    width:100px;
+
+    
+    display: inline;
+    
+    padding: 10px 20px 30px 40px;
+    margin : 20px;
+}
+
+#div1{
+    background-color: rgba(255,0,0,0.5);
+    background-image: url("seashell.avif");
+    background-size: auto;
+ 
+}
+
+#div2{
+    background-color: rgba(255,0,0,0.75);
+    vh:5%;
+}
+
+#div3{
+    background-color: rgba(255,0,0,1);
+}
+
+.paraclass {
+    color:red;
+   display: inline;
+   width : 5em;
+
+}
